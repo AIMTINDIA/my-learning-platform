@@ -1,0 +1,230 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Kanit", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  width: 100%;
+  height: 80vh;
+  background: var(--main-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.testimonials-wrapper {
+  width: 95%;
+  height: 90%;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)),
+    url(images/bg.jpg) center no-repeat;
+  background-size: cover;
+  box-shadow: 0 1rem 5rem rgba(0, 0, 0, 0.4);
+  position: relative;
+}
+
+.testimonials-header {
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.testimonials-header h3 {
+  font-size: 2rem;
+  font-weight: 300;
+  color: #ccc;
+}
+
+.testimonials-header h1 {
+  font-size: 5rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  color: #fff;
+  letter-spacing: 0.4rem;
+}
+
+.testimonials-header i {
+  font-size: 1.6rem;
+  color: rgb(255, 220, 62);
+  margin: 0 0.5rem;
+}
+
+.testimonials {
+  width: 95%;
+  height: 39rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  overflow: hidden;
+}
+
+.slider {
+  height: 100%;
+  width: 500%;
+  display: flex;
+  transition: all 0.8s cubic-bezier(1, 0, 0, 1);
+}
+
+.slide {
+  width: 20%;
+  position: relative;
+}
+
+.slide-bg {
+  width: 70%;
+  height: 65%;
+  background-color: darkviolet;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotateZ(-6deg);
+  border-radius: 2rem;
+  opacity: 0.7;
+}
+
+.slide-content {
+  width: 70%;
+  height: 65%;
+  background-color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 5rem;
+}
+
+.slide i {
+  font-size: 12rem;
+  color: darkviolet;
+  position: absolute;
+}
+
+.slide i:nth-child(1) {
+  top: -20%;
+  left: 10%;
+}
+
+.slide i:nth-child(2) {
+  bottom: -20%;
+  right: 10%;
+}
+
+.slide-img {
+  width: 15rem;
+  height: 16rem;
+  position: relative;
+}
+
+.slide-img::after,
+.slide-img::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  border: 0.2rem solid rgba(0, 0, 0, 0.4);
+  border-radius: 3rem 0 3rem 0;
+  z-index: -1;
+}
+
+.slide-img::after {
+  top: -1rem;
+  left: -0.5rem;
+}
+
+.slide-img::before {
+  bottom: -1rem;
+  right: -0.5rem;
+}
+
+.slide-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 3rem 0 3rem 0;
+}
+
+.slide-text {
+  width: 70%;
+}
+
+.slide-text h3 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  color: #111;
+  margin-bottom: 1rem;
+}
+
+.slide-text p {
+  font-size: 1.4rem;
+  font-weight: 300;
+  color: rgb(30, 40, 35);
+  line-height: 1.2;
+  margin-bottom: 3rem;
+  width: 35rem;
+}
+
+.slide-text .client {
+  font-size: 1.8rem;
+  color: rgb(11, 83, 47);
+}
+
+.controls i {
+  width: 5rem;
+  height: 5rem;
+  background-color: #7b8584;
+  opacity: 0.6;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  color: #444;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.controls i:nth-child(1) {
+  left: 10%;
+}
+
+.controls i:nth-child(2) {
+  right: 10%;
+}
+
+.dots {
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+}
+
+.dots span {
+  width: 1rem;
+  height: 1rem;
+  background-color: #ccc;
+  border-radius: 50%;
+  margin: 0 0.5rem;
+  cursor: pointer;
+}
+
+.dots span.active {
+  width: 1.5rem;
+  height: 1.5rem;
+  background-color: #fff;
+}
