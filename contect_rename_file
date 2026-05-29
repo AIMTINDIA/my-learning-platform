@@ -1,0 +1,192 @@
+concat_ws('|',title,description,video)
+01_introduction &_user_defined_variable|Shell scripting|TNJhTeiUZ3tb8AsqcTv2.mp4
+02_system_defined_variable|Shell scripting|5Xp262BxAr82Slzr7iKl.mp4
+3 Application of echo & Set command|Shell scripting|kcEzBNv3u8jNy7IQa7fO.mp4
+4 Read Comand,Command value & First Script|Shell scripting |lgpeKeFjfh05V1bH2n26.mp4
+5 Read Script|Shell scripting |McBMY4513NbBKfSvewnn.mp4
+6 expr & bc command| Shell scripting |77Vcmg3pXYW3noLUYOlu.mp4
+7 if number data type condition|Shell scripting |mwLVfs3y9D2gxPu0p8GZ.mp4
+8 if nested|Shell scripting |ogI4OAH6HeGPR8EPQS4F.mp4
+9 if File data type condition|Shell scripting |G7fJJNyMhEw0wvZgO9HF.mp4
+10 if Command data type|Shell scripting |IY33Ox8FuXiUP2nLbA6X.mp4
+10 if Command data type|Shell scripting |Ezi7ZhrfJyH5Ts0X2ZrN.mp4
+11 if String Based Data Type|Shell scripting |Hwwl5V0NIAkEVqkkyFIq.mp4
+12 & Or Not Operators|Shell scripting |GUqN6C93Nczi7I87Xyev.mp4
+13 Case statement|Shell scripting |Cwnq6JVnU1SURP2Bk1lO.mp4
+14 Positional Parameters|Shell scripting |bmu9rJ8bdyfMLym06MCY.mp4
+15 While Loop Statement|Shell scripting |Xm4aydmoNBZs7KbqsOUe.mp4
+16 File loop command|Production Support|LyVUp0F1f0KzNOD9JzHS.mp4
+16 File loop command|Shell scripting |xqNkiPrFonEd5sKtkuxX.mp4
+17 Auditing Script|Shell scripting |fgC2ExwVwO8CNW2Q2rOu.mp4
+19_Nov_2021 Stop,Continue & Exit Loop|Shell scripting |OraxsoteLlLnl6V1jcKc.mp4
+20 For Loop|Shell scripting |IpqobUGW3GmZnny2wV8q.mp4
+21 CRON TAB|Shell scripting |bSdkfRnrHZkrozCZGopd.mp4
+1 intro|pl/sql|epci2UMw5jMNHImkamDo.mp4
+2 anonymous block|PL/sql|sgRCgxZsNrm5jjkw8vWd.mp4
+3 constant,global variables|PL/sql|nOQNh8gKrEVHOnLRu74S.mp4
+4 use of DML,TCL,DDL,|PL/sql|n4ZajOxVL40wtSUUKeDs.mp4
+5 Attributes-2 types -%type & %rowtype|PL/sql|KrsPkZCNwihMakQaxyz9.mp4
+6 control statement if, then, else|PL/sql|woWzC5ACPPqTUWJvrNCk.mp4
+7 Loop simple,while,for|PL/sql|lW4DxcquL2QbVNzUsccj.mp4
+8 subprograms (procedure) and local subprograms|PL/sql|tTuG2zmS9gpUo7B6B8Ie.mp4
+9 function|PL/sql|6iAlGh7jdcdAgsFHheLO.mp4
+10 Parameters(3)  IN,OUT,IN OUT|PL/sql|TUg2PdjADQ9VAjjtMdZH.mp4
+11 Cursor, it&#39;s types and attributes|PL/sql|uMyXBSNUzr7Xc5NRVaGA.mp4
+12 Exception-system and user defined|PL/sql|yZuaKBvVN6IkyGQ4OcXZ.mp4
+13 PACKAGES, real global variable.|PL/sql|C2aVUqWkp8lFtaPOJHhx.mp4
+14 TRIGGERS--DML--12(types)|PL/sql|rQvTbv3wM97kg34j4qbg.mp4
+15 Compound,DDL, Instead of trigger|PL/sql|mPyi3mxuYPTIvfXv23ee.mp4
+16 Collection          1st type--Varray & it&#39;s 7 methods|PL/sql|xb63vrlRdYx7WnIt9mow.mp4
+17 Nested table,     Associative type of collection & it&#39;s methods also|PL/sql|5rSMjRgAjnGuivzBvrM6.mp4
+18 REF-CURSOR & it&#39;s (2) types--Weekly,    Strongly|PL/sql|b6YPoEt9zI5bBuWA9jVd.mp4
+1 Unix & Date,Cal etc|Linux|3zq2QpTknJviIK2WsHAc.mp4
+2 pwd ls touch|Linux|lPIVyvL739GjLikDpP2o.mp4
+3 cat mkdir cd|Linux|YBHTk0GfUrQVSeJyWbmu.mp4
+4  rm command|Linux|5TwbdxJY0QMMk4YRbIbA.mp4
+5 ls -options|Linux|bfdnLu8VdXY436tO2EJv.mp4
+6 cp command|Linux|2KeWEsvOu7YX05VtyQlt.mp4
+7 mv command| Linux|4IgTDwB9dyleb11t7ZCj.mp4
+8 Vi editor ( Three Types of Mode)|Linux|MNzg6RCsRj1tIUtIrPtD.mp4
+9 Vi editor ( backspace,updown,copy,paste)|Linux|zU1LXOvjJ3Cf1RYP1KYB.mp4
+10 Vi Editor 2|Linux|EEdQ3iqTUK0gdBTUn6OO.mp4
+11 Vi Editor 3|Linux|XARRYKnEjXZLIGYDz4O1.mp4
+12 grep|Linux|atVYoJztwA4l1Y9Q0mKW.mp4
+13 Meta Chracter|Linux\n|qtst85Xz7w8FYgTA9j3f.mp4
+14 Cut Command|Linux|v1gAuShUfW6qfUgcn9zD.mp4
+15 Cut & short|Linux|B5T6KDNfNMXCoqgnZxop.mp4
+16 sort command|Linux|7LPUyx7Ua4ImFL8WnhKv.mp4
+17 word count,head,tail|Linux|gUqSu9DeryEa2Ofw7A6G.mp4
+18 redirection|Linux|nyLV7KdeWAYjMp4vI0Qb.mp4
+19 pipe with grep|Linux|F1WGgtqCA9bn78cdHQwW.mp4
+20 uniqe command|Linux|HG8DnMdCazf9BuXwki0t.mp4
+21 sleep command|Linux|E1UYBDzrQHncfQ53EioL.mp4
+22 find command|Linux|cm3aE5uWgNLzgJuJaAQ1.mp4
+23 df command|Linux|1ii6KTkLF7EHD75X1VRS.mp4
+24 permission|Linux|Z5rSnuDZqqBiObIMNJP9.mp4
+25 permission|Linux|snzjSR4A1wviekR4A9kv.mp4
+26 links|Linux|cOXoX24WG1MbjSZREstu.mp4
+27 find in links|Linux|wboo5aLybHlEoQChApgM.mp4
+28 tar|Linux|XlejbCZfQb8A9bbMYyUG.mp4
+29 sed|Linux|eu2o5y6NnlmSHcfF6buT.mp4
+30 sed|Linux|Taglm0bolJzJWerKuMDJ.mp4
+31 sed|Linux|ZddM49bV9QVF1EgWbj6a.mp4
+32 transfer files|Linux|dAuKb2NBLhuYZmXdpqbW.mp4
+33 ssh----scp|Linux|8EZu8lafcdgPfZvK6AlA.mp4
+34 awk|Linux|LFBbJJJaNOV4MWiSpkMw.mp4
+35 awk|Linux|Ns0mAyA1jug0BQwFWIKG.mp4
+36 ps (process),top command in linux|Linux|m5yVPdMDmZ7w8zaUaLHr.mp4
+37 Video-cron tab in linux|Linux|pk6SveRxQTdkfNtMpzHx.mp4
+vedio 1 sql-introduction of sql|SQL|xtsD7Gn07UBwpfyX6kZs.mp4
+vedio 2 sql-basic select statement of  sql|SQL|SZg1zWwuvphXWzdDiuw0.mp4
+vedio 3 sql- arithmatical operations|SQL|T97AzRZhoQZMbpc1qcOi.mp4
+vedio 4 sql-desc,alias,unique,multipule choie|SQL|5RHwJF2OwX3nkjqhkt2V.mp4
+vedio 5 sql-multipule choice|SQL|VGxAHWIUwkJ4acz6ANHF.mp4
+vedio 6 sql- create table and inserting data in table|SQL|pAOBT5NNXALpwh3Yugrg.mp4
+vedio 7 sql-create table virtual and default|sql|3RIJBCHDfRqxmKuXSz9h.mp4
+Video 8 desc,data-disonary,alter-add,modify,drop|SQL|TNWGMDNLdGOTwbaTTCPV.mp4
+video 9 alter rename,setunused-drop,flashback,purge,truncate,recyclebin|SQL|9JHjY7ACe6Nb7Kn3UCL2.mp4
+Video 10 (1)multipul choice|SQL|73jKSxm1D9q6MxPTFHzl.mp4
+Video 10 (2) multipule choice|SQL|ToKz9xfG8O7X9hMqKOy4.mp4
+Video 11 multipule choice|SQL|uzHsrlQYFtggYChgvsPY.mp4
+Video 12 hands of works|SQL|42QTEY3QvJQW3HTI4HTr.mp4
+Video 13 constraints basic|SQL|zu6egPs5Uwx8GLDO5eyJ.mp4
+Video 14 constraints table level|SQL|3Kg0jcM05C7slwNcA8A7.mp4
+Video 15 adding constraints after creating table|SQL|fLOFLdKOCCxGsSCqnHQy.mp4
+Video 16 constraints enable or disable (multiple_choice_questions)|SQL|8KqWFnyXEX0kxpR0fJoL.mp4
+Video 17 multipule choice|SQL|6qODvYbJAQEzvNNPsq2W.mp4
+Video 18 where clause|SQL|blwnpIq8ys4cBgCgffwX.mp4
+Video 19 where clause operator|SQL|p8nxXFcTY1tdKREzlaJ1.mp4
+Video 19(2) where clause|SQL|63Nqn6zI9wGryZUMZ9iM.mp4
+video 20 where clause oprators|SQL|oRsLfLwSiZSSnPGqzm75.mp4
+Video 21 hands of works|SQL|JTYDnlbnb2CKFwEYLw1v.mp4
+Video 22 copy commands with data and without date or (DML statements)|SQL|DmqI2PMUjGzK4m2ZfAK9.mp4
+Video 23 update command and delete command (rollback and commit)|SQL|gwMHGEaoGrgbFckSovaN.mp4
+Video 24 savepoint (tcl command)|SQL|w5W0JjSnANpJttgBcCld.mp4
+Video 25 sequences|SQL|2VVCs5r7VKnXoNrY38bP.mp4
+Video 26 indexs|SQL|JVxhItPjnVIC4U2rkyvr.mp4
+Video 27 functions based indexs|SQL|sOhy7LBD0HHINX70nis3.mp4
+Video 28 synonyms|SQL|nWlhrMNeb1D83KGupdDt.mp4
+Video 29 joins|SQL|Jga1Rg5flxnlce36Kb1U.mp4
+Video 30 equi join|SQL|V99cHLS73sBFc0PKJ7wi.mp4
+Video 31 non equi join,self join|SQL|Bw540mm48lgYbztGKc70.mp4
+Video 32 outer join|SQL|qP50nrCUDvhYsGpP5uWW.mp4
+Video 33 set operators|SQL|Un8t9w8Vbqdcu5G4qwSu.mp4
+Video 34 hands of works|SQL|womuZKfZmnoaPJiyKExJ.mp4
+Video 35 aggregration functions|SQL|zfuSkhdtr9HH3y9ymMWi.mp4
+Video 36 group by  and having clause|SQL|AosQ9cUdh9DxtyQBOJJ2.mp4
+Video 37 case conversation function|SQL|3WslAflhNQdJFSFkVl9V.mp4
+Video 38 substr , instr fonction|SQL|tYE3qNLzjqS0oeHdXAjG.mp4
+Video 39 functions  like rpad lpad length|SQL|vC8T5GO1hxtBV6cpnjNA.mp4
+Video 40 functions like rtrim,ltrim,replace,translate|SQL|WN8BdSaMBw4bt7jms51I.mp4
+Video 41 functions like round power,mod,concat|SQL|qNsrZsjYWQEIwPZuEfmH.mp4
+Video 42 functions month_between trunc, next_day|SQL|MgQE8EmArDpbobkUsTub.mp4
+Video 43 functions  add_date, to_date,systimestamp,current_date|SQL|dPnoA90csQjEjUV988aa.mp4
+Video 44 functions nvl,nvl2,nvlif,coalesce|SQL|eLAd3MMAh5y44TsjtaHy.mp4
+Video 45 functions to_char,decode,case|SQL|KdSIBs4F7vYGi7YgIgsA.mp4
+Video 46 to_number multipul_choice|SQL|r9LatqO4exTBz6dBC0nH.mp4
+Video 47 Hands of  Assignment|SQL|X2acgjkhPRLpa91PWoBM.mp4
+Video 48 subquery|SQL|2kHwVplkeoCdm8hRIWD4.mp4
+Video 49 multipul rows subquery|SQL|LQwVEx8YZSgjeZmzj7DB.mp4
+Video 50 multipul columns subquery|SQL|pZN0YPoe8eOKNdPI7CfY.mp4
+Video 51 nested subquery|SQL|vgALrn5GknhCtnBxBD5z.mp4
+Video 52 merge statement|SQL|hTlwoOSSuI11IUwslbgq.mp4
+Video 53 rowid,rownum|SQL|PhiQqd6UeYw5lIhJDlah.mp4
+Video 54 views|SQL|Li6zdyFQRKt5Ul5zfO97.mp4
+Video 55(1) m view|SQL|pDno5D0gEB6aXTfovdeg.mp4
+Video 55(2) m_view|SQL|UsvVY8bGsIjACMzo7bgi.mp4
+Video 56 Rank, dense rank|SQL|EnsByChNqFLICTTacdOw.mp4
+Video 57 sqlloder|SQL|O1EZK5jAA7sRYb9gUGte.mp4
+1|Node js |QwrdTO083QMHuM7RUzxK.mp4
+2|Node js |gNM81VC1SLKv6m1O0WiX.mp4
+03|Node js |Cfs21dGQ3ez5yOt4Jd86.mp4
+04_crud_file_system|Node js |b0yZB94hwVRzUij805Yl.mp4
+05_index_JS|Node js |Xnz2wZlchpa1u1YE6Nak.mp4
+06_express_js|Node js |bOQ3XhsapLRuo3PDEDAl.mp4
+07static_page|Node js |KyKazMpACcrb34FQw2g2.mp4
+08_middle_wear|Node js |0efCEdCLoPJ81O90LocM.mp4
+09|Node js |XGd2erlfCojuhGk8sKLJ.mp4
+10_Api_JS|Node js|lbcoPykmgFxvRjGNuEwe.mp4
+11_mongodb|Node js |gxLwPPuEwZVD4Gq34Z58.mp4
+12_mongoose_api|Node js |tE44cyS9fv1vdYGUn5N6.mp4
+13_emp_js|Node js |qJUO8gyU7pNt2zdmZqiI.mp4
+14_os_js|Node js |GvU5hM5OUPwuy0S1tHWO.mp4
+15_project|Node js |UVReDnqi9wwoI51TO43W.mp4
+16_project|Node js |w0AwfzsoPfzVw1Bj7DYX.mp4
+17_project|Node js |9tdjGbNDCRCHLKc7Kltk.mp4
+18 project|Node js |S79NFsRILfqGGZ8m8nea.mp4
+19|Node js |7r2EmDya7Tqhj1xKNgou.mp4
+00_js_Introduction|JS|iebTssMLAz2ME4l6vx7t.mp4
+2_primitive_data_type|JS|wx72QZLlYc7Nwdd0cvEQ.mp4
+03_JS_Operators_|JS|yzyDvCAZgE5ib5sGJrgy.mp4
+03_operator(2)|JS|yNVa49IXVBZqYxsXrHQK.mp4
+04_conditonal_statements|JS|NC8xHOgCAHZAbqcafISZ.mp4
+05_for_loops|JS|UHT1hvTh6tX61XJD0dvP.mp4
+06_while_loop|JS|cCnBLo1L9ZRTjyXIf5On.mp4
+07_function|JS|NTFQUhL0Hg06ueRJyr0F.mp4
+08_string|JS|xoQuAjtBGZvDJuRboD77.mp4
+09_array|JS|JyoczcxLnvLqis072eZ6.mp4
+10_array|JS|J3qKBq9ix7bRWZTfVTZ3.mp4
+11_map_filter_reduce|JS|2APU7qYinBiH2fZw5xRr.mp4
+12_console|JS|92HUuKTNH6I5OR3RXEmS.mp4
+13_confirm_alert_prompt|JS|NmOyHuXgBpEo6uLzTuqN.mp4
+15_dom_siblings|JS|aqEkehBQEb8AcPkLTuyo.mp4
+16_tables|JS|aWBq9GqeLrchX5hy0sHM.mp4
+17_id_class_tag|JS|DMBe6kpIS97CU1OEHhBc.mp4
+18-attributes_innerhtml|JS|YWjCT1O6YmRuw6nzcmFT.mp4
+19_adjacent|JS|kh0rYrYtWr1EWrSrPDnB.mp4
+20_classname_timeout|JS|WzTbvVf9z1rNmcp7mnOA.mp4
+21_events|JS|vsJOeXb20XOma6WXQH5S.mp4
+22_callback|JS|Tt772QVDrwRvMC3f5Sfm.mp4
+23_promise|JS|gnwTpyiWWn4snrQuhhMV.mp4
+24_promise_api_handler|JS|jDK3S7RFaVoI6kXW79ov.mp4
+25_Async_Await|JS|0AwNKG532VyQyPqaSQFT.mp4
+27_get_post_api|JS|7i6Rkjhpr1yWDgmcJiRH.mp4
+28_cookie_loccalstorage|JS|pp7YjrgZ7B4LHZPihY8g.mp4
+30_class|JS|wCqjbFsydlQCfWSquIXP.mp4
+31_constructor|JS|C3oPA3arSIU9T4TZ3dIN.mp4
+32_overriding|JS|M2tj31kKgJUXrC6kzFws.mp4
+33_spread|JS|vhCmLZGAhJHHCIqzWlq5.mp4
+34_hosting|JS|i9tuLzls6hhjzh5mQcym.mp4
+35(1)alarm_clock|JS|Pv87IO6E8Bpb56ElSqoE.mp4
+35(2)alarm_clock|JS|qQMXlesZsWaIfCu6IOC7.mp4
+36_wheather _app|JS|mtX2qHxFi5a5Vq68nmjz.mp4
